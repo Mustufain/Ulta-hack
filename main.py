@@ -34,7 +34,7 @@ while(True):
     img_BGRA[gray > threshold, 1] = 0
     # gray[gray < 200]
     img_BGRA[gray > threshold, 2] = 255
-#    img_BGRA[gray < 240, 0] = gray[gray < 240]
+    # img_BGRA[gray < 240, 0] = gray[gray < 240]
 
     # Display the resulting frame
     # cv2.imshow('frame', gray)

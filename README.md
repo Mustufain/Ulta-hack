@@ -59,12 +59,22 @@ As already mentioned in the challenge material, the business opportunities in th
 
 # Team
 
-- Pasi Karppinen : Business Advisor
+- Pasi Karppinen :
+  - Description to be added
+  - linkedin profile: https://www.linkedin.com/in/pasikarppinen/
 
 - Juha Koivisto : Other Subject Expert
+  - Description to be added
+  - linkedin profile :
 
-- Mustufain Rizvi: Back-end developer, other Subject Expert
+- Mustufain Rizvi:
+  - Description to be added
+  - linkedin profile: https://www.linkedin.com/in/mustufain-abbas/
 
 - Evgenia Iakovlea: Other Subject Expert
+  - Description to be added 
+  - linkedin profile :
 
 - Eelis Mielonen: Other Subject Expert
+  - Description to be added
+  - linkedin profile :
