@@ -76,21 +76,21 @@ python3 app.py
 # Team
 
 - Pasi Karppinen :
-  - Description to be added
+  - Business Advisor with expertise in business development and a Physicist at heart.  
   - linkedin profile: https://www.linkedin.com/in/pasikarppinen/
 
-- Juha Koivisto : Other Subject Expert
-  - Description to be added
+- Juha Koivisto :
+  - Postdoctoral Researcher at Aalto University
   - linkedin profile :
 
 - Mustufain Rizvi:
-  - Description to be added
+  - Data Science Expert specializing in machine learning and full stack development
   - linkedin profile: https://www.linkedin.com/in/mustufain-abbas/
 
-- Evgenia Iakovlea: Other Subject Expert
-  - Description to be added
+- Evgenia Iakovlea:
+  - Postdoctoral Researcher at Aalto University specializing in Analytical Chemistry  
   - linkedin profile : https://www.linkedin.com/in/evgenia-iakovleva-9180a735/
 
-- Eelis Mielonen: Other Subject Expert
-  - Description to be added
-  - linkedin profile :
+- Eelis Mielonen:
+  - A Mathematical physics student with expertise in Data Analysis
+  - linkedin profile : https://www.linkedin.com/in/eelis-mielonen-45525a132/
