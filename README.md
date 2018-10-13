@@ -57,6 +57,22 @@ The technology that we are proposing is already utilized in AutoDet project in A
 At this point, the hardware is expensive (~10 000 euros) but the prices are coming down rapidly. In a few years, the prices will come down significantly, even to the consumer affordable level (~100 euros).
 As already mentioned in the challenge material, the business opportunities in the environmental testing markets are huge: Effective infection prevention and control reduces health care-associated infections by at least 30% (WHO). By hand washing respiratory and intestinal diseases can be reduced by 25-30% (Globalhandwashing.org).
 
+# Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+## Prerequisites
+
+Install all the dependencies using the following command :
+
+pip install -r requirements.txt
+
+## Installation
+
+Run the application using the following command :
+
+python3 app.py
+
 # Team
 
 - Pasi Karppinen :
