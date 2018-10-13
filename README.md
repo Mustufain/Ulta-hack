@@ -72,8 +72,8 @@ As already mentioned in the challenge material, the business opportunities in th
   - linkedin profile: https://www.linkedin.com/in/mustufain-abbas/
 
 - Evgenia Iakovlea: Other Subject Expert
-  - Description to be added 
-  - linkedin profile :
+  - Description to be added
+  - linkedin profile : https://www.linkedin.com/in/evgenia-iakovleva-9180a735/
 
 - Eelis Mielonen: Other Subject Expert
   - Description to be added
