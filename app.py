@@ -20,7 +20,6 @@ def gen2(camera2):
                b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n\r\n')
 
 
-
 def gen1(camera1):
     """Video streaming generator function."""
     while True:

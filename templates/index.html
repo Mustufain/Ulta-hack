@@ -5,8 +5,13 @@
         box-sizing: border-box;
     }
 
-    .column {
+    .column1 {
         float: left;
+        width: 33.33%;
+        padding: 5px;
+    }
+   .column2 {
+        float: right;
         width: 33.33%;
         padding: 5px;
     }
@@ -17,18 +22,25 @@
         clear: both;
         display: table;
     }
+
+    
     </style>
     <title>Video Streaming Demonstration</title>
   </head>
-  <body>
-    <h1>Video Streaming Demonstration</h1>
-    <div class="row">
-      <div class="column">
-        <img id="bg2" src="{{ url_for('video_feed_1') }}"
-      </div>
-      <div class="column">
-        <img id="bg1" src="{{ url_for('video_feed_2') }}"
-      </div>
-    </div>
+  <body background="{{url_for('static', filename='wallpaper_01.jpg')}}" >
+  	<br><br>
+    <Center><H1 style="color:white;" >AutoDet - Smart Hygiene Detector</H1>
+    	<br><br>
+    	<br><br>
+    	<div style="display: inline-block">
+   			<img id="bg2" border="3" src="{{ url_for('video_feed_1') }}"
+		</div>
+		<div style="display: inline-block">
+   			<img id="bg1" border="3" src="{{ url_for('video_feed_2') }}"
+		</div>
+    </Center>
+
+    
+
   </body>
 </html>
