@@ -22,21 +22,10 @@ class Hand_analyzer:
         self.dirt_threshold = 35 
         self.beep_thres     = 1000
 
-        self.bg_ok       = cv2.imread('software_image_ok.png',1)
-        self.bg_bad      = cv2.imread('software_image_bad.png',1) 
-
-        self.xmin   = 0
-        self.ymin   = 0
-        self.ymax   = 480
-        self.xmax   = 640
-        self.xstep  = 2
-        self.ystep  = 2
-
-        self.start_time = 0
+        self.start_time     = 0
 
     def is_dirty(self, filtered):
            
-        
         # threshold the dirty pixels
         gray = cv2.cvtColor(filtered, cv2.COLOR_BGR2GRAY)
 
