@@ -80,8 +80,8 @@ python3 app.py
   - linkedin profile: https://www.linkedin.com/in/pasikarppinen/
 
 - Juha Koivisto :
-  - Postdoctoral Researcher at Aalto University
-  - linkedin profile :
+  - Academy Post Doc at Aalto University
+  - linkedin profile : https://www.linkedin.com/in/juha-koivisto-98b07761/
 
 - Mustufain Rizvi:
   - Data Science Expert specializing in machine learning and full stack development
